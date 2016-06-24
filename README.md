@@ -1,9 +1,9 @@
 Stock Prices Downloader
 =======================
 
-This script will download the historical stock prices from [Yahoo Finance](https://finance.yahoo.com) and save it in a SQLite database for querying afterward.
+This script will download the historical stock prices from [Yahoo Finance](https://finance.yahoo.com) and save it in a SQLite database for later use.
 
-It can probably be parallelized but don't want to risk getting throttled by Yahoo.
+It can be parallelized but don't want to risk getting blocked by Yahoo.
 
 Run It
 ------
