@@ -1,0 +1,15 @@
+{
+  "name": "stock_prices_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "csv": "^1.1.0",
+    "sqlite3": "^3.1.4"
+  }
+}
